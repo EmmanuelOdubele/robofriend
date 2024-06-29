@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EmmanuelOdubele.github.io/robofriend",
+  "homepage": "https://EmmanuelOdubele.github.io/robofriends_project",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
